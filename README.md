@@ -2,7 +2,7 @@
 - 👀 Estou estudando JavasCript
 - 🌱 Estou cursando o curso do Alura
 - 💞️ Sou do 2C do ensino médio, número 05
-- 📫 How to reach me ...
+- 📫 como chegar até mim, 00001100270310sp@al.educacao.sp.gov.br
  Meu projeto, https://scratch.mit.edu/projects/1052007070
 
 <!---
